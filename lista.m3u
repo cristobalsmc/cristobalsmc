@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1,Bt Sport 1 HD
+http://85.245.237.73:8082/play/a009
+#EXTINF:-1 tvg-id="movistarlaliga.es" tvg-name="|ES| Movistar LaLiga 4K+" tvg-logo="http://picon.worldip.nl/lyngsat/tv/mm/movistar-laLiga-es.png" group-title="ES : Sport",|ES| Movistar LaLiga 4K+
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/13975
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|ES| Gol" tvg-logo="http://picon.worldip.nl/lyngsat/tv/gg/gol_es.png" group-title="ES : Sport",|ES| Gol
+http://lionboxiptv.xyz:80/protoniom/o4IBsSqT12/14094
 #EXTINF:-1, M+ Estrenos 2
 http://195.154.182.249:8000/play/a004
 #EXTINF:-1,AXN
