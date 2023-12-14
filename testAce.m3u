@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DAZN LaLiga 1080 MultiAudio" tvg-name="DAZN LaLiga 1080 MultiAudio" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/4qm3dw1692437861.png" group-title="DAZN", DAZN LaLiga 1080 MultiAudio
+acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 tvg-id="DAZN LaLiga 720" tvg-name="DAZN LaLiga 720" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/4qm3dw1692437861.png" group-title="DAZN", DAZN LaLiga 720
+acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
