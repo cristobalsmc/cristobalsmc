@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ESPN [CO]" tvg-name="ESPN [CO]" tvg-logo="" tvg-type="Colombia", ESPN [CO]
+acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
+#EXTINF:-1 tvg-id="ESPN 2 [CO]" tvg-name="ESPN 2 [CO]" tvg-logo="" tvg-type="Colombia", ESPN 2 [CO]
+acestream://e40b29774fdfd953751a71f5695f647726623b9d
+#EXTINF:-1 tvg-id="ESPN 3 [CO]" tvg-name="ESPN 3 [CO]" tvg-logo="" tvg-type="Colombia", ESPN 3 [CO]
+acestream://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1 tvg-id="ESPN EXTRA [CO]" tvg-name="ESPN EXTRA [CO]" tvg-logo="" tvg-type="Colombia", ESPN EXTRA [CO]
+acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
