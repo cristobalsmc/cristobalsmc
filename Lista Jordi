@@ -45,3 +45,5 @@ acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1 tvg-id="M.L. Campeones 3 720p" tvg-name="M.L. Campeones 3 720p" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_3.png" tvg-type="Futbol", M.L. Campeones 3 720p
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 tvg-id="Movistar Supercopa" tvg-name="Movistar Supercopa" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/ojy0051692440900.png" tvg-type="Futbol", Movistar Supercopa
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
