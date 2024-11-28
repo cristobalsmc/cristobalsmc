@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="M.#Vamos 1080p" tvg-name="M.#Vamos 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f6rnxx1660315163.png" tvg-type="Deportes", M.#Vamos 1080p
-acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
+acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="M.#Vamos 720p" tvg-name="M.#Vamos 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f6rnxx1660315163.png" tvg-type="Deportes", M.#Vamos 720p
-acestream://3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M.Ellas" tvg-name="M.Ellas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" tvg-type="Deportes", M.Ellas
 acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
 #EXTINF:-1 tvg-id="Movistar Plus 1080p" tvg-name="Movistar Plus 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-type="Deportes", Movistar Plus 1080p
@@ -10,9 +10,9 @@ acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="Movistar Plus 1080p" tvg-name="Movistar Plus 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-type="Deportes", Movistar Plus 1080p
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 tvg-id="M. Deportes 1080p" tvg-name="M. Deportes 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jw11fx1654941293.png" tvg-type="Deportes", M. Deportes 1080p
-acestream://d00223931b1854163e24c5c22475015d7d45c112
+acestream://55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-id="M. Deportes 720p" tvg-name="M. Deportes 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/jw11fx1654941293.png" tvg-type="Deportes", M. Deportes 720p
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+acestream://3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-id="M. Deportes 2 1080p" tvg-name="M. Deportes 2 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-type="Deportes", M. Deportes 2 1080p
 acestream://639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 tvg-id="M. Deportes 3 1080p" tvg-name="M. Deportes 3 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" tvg-type="Deportes", M. Deportes 3 1080p
