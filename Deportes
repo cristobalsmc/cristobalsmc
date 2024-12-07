@@ -1,10 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="GOL TV 1080p" tvg-name="GOL TV 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/70wi1n1692441317.png" tvg-type="Deportes", GOL TV 1080p
+acestream://d4627f7b6b237a8556819445b3283d866caceca2
 #EXTINF:-1 tvg-id="M.#Vamos 1080p" tvg-name="M.#Vamos 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f6rnxx1660315163.png" tvg-type="Deportes", M.#Vamos 1080p
 acestream://d03c13b6723f66155d7a0df3692a3b073fe630f2
 #EXTINF:-1 tvg-id="M.#Vamos 720p" tvg-name="M.#Vamos 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f6rnxx1660315163.png" tvg-type="Deportes", M.#Vamos 720p
 acestream://12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-id="M.Ellas" tvg-name="M.Ellas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" tvg-type="Deportes", M.Ellas
-acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746
+acestream://d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-id="Movistar Plus 1080p" tvg-name="Movistar Plus 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-type="Deportes", Movistar Plus 1080p
 acestream://56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-id="Movistar Plus 1080p" tvg-name="Movistar Plus 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-type="Deportes", Movistar Plus 1080p

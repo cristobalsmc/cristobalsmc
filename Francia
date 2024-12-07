@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="beIN Sports 1 [FR]" tvg-name="beIN Sports 1 [FR]" tvg-logo="" tvg-type="Francia", beIN Sports 1 [FR]
-acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-id="beIN Sports 2 [FR]" tvg-name="beIN Sports 2 [FR]" tvg-logo="" tvg-type="Francia", beIN Sports 2 [FR]
-acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-id="beIN Sports 3 [FR]" tvg-name="beIN Sports 3 [FR]" tvg-logo="" tvg-type="Francia", beIN Sports 3 [FR]
-acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8

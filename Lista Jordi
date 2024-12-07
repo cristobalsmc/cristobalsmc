@@ -4,15 +4,21 @@ acestream://608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 #EXTINF:-1 tvg-id="LaLiga TV Bar 1080p" tvg-name="LaLiga TV Bar 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f9y6oe1692444384.png" tvg-type="Futbol", LaLiga TV Bar 1080p
 acestream://94d34491106e00394835c8cb68aa94481339b53f
 #EXTINF:-1 tvg-id="M. LaLiga TV 1080p" tvg-name="M. LaLiga TV 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/23v0bw1692438187.png" tvg-type="Futbol", M. LaLiga TV 1080p
-acestream://1969c27658d4c8333ab2c0670802546121a774a5
+acestream://d3de78aebe544611a2347f54d5796bd87f16c92d
 #EXTINF:-1 tvg-id="M. LaLiga TV 1080p" tvg-name="M. LaLiga TV 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/23v0bw1692438187.png" tvg-type="Futbol", M. LaLiga TV 1080p
-acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
+acestream://6d05b31e5e8fdae312fbd57897363a7b10ddb163
 #EXTINF:-1 tvg-id="M. LaLiga TV 720p" tvg-name="M. LaLiga TV 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/23v0bw1692438187.png" tvg-type="Futbol", M. LaLiga TV 720p
-acestream://f031f5728b32f6089dda28edebe990cf198108d8
+acestream://1bc437bce57b4b0450f6d1f8d818b7e97000745e
 #EXTINF:-1 tvg-id="M. LaLiga 2 1080p" tvg-name="M. LaLiga 2 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" tvg-type="Futbol", M. LaLiga 2 1080p
-acestream://26029f72a4ca831d09deefe89534818db1d105bc
+acestream://83c6c4942d69f4aa324aa746c5d7dbfd7d1572b3
 #EXTINF:-1 tvg-id="M. LaLiga 2 720p" tvg-name="M. LaLiga 2 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/y8bezh1692969735.png" tvg-type="Futbol", M. LaLiga 2 720p
-acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
+acestream://f31a586422c9244196c810c84b6c85da350318a5
+#EXTINF:-1 tvg-id="M. LaLiga 3 1080p" tvg-name="M. LaLiga 3 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Movistar_LaLiga_3.png" tvg-type="Futbol", M. LaLiga 3 1080p
+acestream://ebe14f1edeb49f2253e3b355a8beeadc9b4f0bc4
+#EXTINF:-1 tvg-id="M. LaLiga 3 720p" tvg-name="M. LaLiga 3 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Movistar_LaLiga_3.png" tvg-type="Futbol", M. LaLiga 3 720p
+acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
+#EXTINF:-1 tvg-id="M. LaLiga 4 1080p" tvg-name="M. LaLiga 4 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/Movistar_LaLiga_4.png" tvg-type="Futbol", M. LaLiga 4 1080p
+acestream://835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 tvg-id="LaLiga Hypermotion 1080p" tvg-name="LaLiga Hypermotion 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png" tvg-type="Futbol", LaLiga Hypermotion 1080p
 acestream://b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-id="LaLiga Hypermotion 720p" tvg-name="LaLiga Hypermotion 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png" tvg-type="Futbol", LaLiga Hypermotion 720p
@@ -22,17 +28,19 @@ acestream://0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-id="LaLiga Hypermotion 2 720p" tvg-name="LaLiga Hypermotion 2 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/ppwgwy1692438970.png" tvg-type="Futbol", LaLiga Hypermotion 2 720p
 acestream://0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-id="DAZN LaLiga 1080p" tvg-name="DAZN LaLiga 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png" tvg-type="Futbol", DAZN LaLiga 1080p
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+acestream://110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="DAZN LaLiga 1080p" tvg-name="DAZN LaLiga 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png" tvg-type="Futbol", DAZN LaLiga 1080p
-acestream://75251ba975132ec9a202806ba5bf606e87280c96
+acestream://ec29289b0b14756e686c03a501bae1efa05be70c
 #EXTINF:-1 tvg-id="DAZN LaLiga 1080p" tvg-name="DAZN LaLiga 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png" tvg-type="Futbol", DAZN LaLiga 1080p
-acestream://95b2238dec35cf00dfdf8fba18e9920bc2c56256
+acestream://6de4794cd02f88f14354b5996823413a59a1de0f
 #EXTINF:-1 tvg-id="DAZN LaLiga 720p" tvg-name="DAZN LaLiga 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/4qm3dw1692437861.png" tvg-type="Futbol", DAZN LaLiga 720p
-acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+acestream://8c8c1e047a1c5ed213ba74722a5345dc55c3c0eb
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LaLiga 2 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png" tvg-type="Futbol", DAZN LaLiga 2
-acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+acestream://97ba38d47680954be40e48bd8f43e17222fefecb
 #EXTINF:-1 tvg-id="DAZN LaLiga 2" tvg-name="DAZN LaLiga 2 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/evu0at1692970765.png" tvg-type="Futbol", DAZN LaLiga 2
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+acestream://51dbbfb42f8091e4ea7a2186b566a40e780953d9
+#EXTINF:-1 tvg-id="DAZN LaLiga 3" tvg-name="DAZN LaLiga 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/bt971n1685180869.png" tvg-type="Futbol", DAZN LaLiga 3
+acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1 tvg-id="M.L. Campeones 1080p" tvg-name="M.L. Campeones 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hktwpa1654941198.png" tvg-type="Futbol", M.L. Campeones 1080p 
 acestream://0a26e20f39845e928411e09a124374fccb6e1478
 #EXTINF:-1 tvg-id="M.L. Campeones 1080p" tvg-name="M.L. Campeones 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hktwpa1654941198.png" tvg-type="Futbol", M.L. Campeones 1080p 
@@ -42,15 +50,13 @@ acestream://e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-id="M.L. Campeones 1080p" tvg-name="M.L. Campeones 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hktwpa1654941198.png" tvg-type="Futbol", M.L. Campeones 1080p 
 acestream://0f0850a62ecdc4f79eec221cbebad01f3e0242bc
 #EXTINF:-1 tvg-id="M.L. Campeones 720p" tvg-name="M.L. Campeones 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hktwpa1654941198.png" tvg-type="Futbol", M.L. Campeones 720p 
-acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
+acestream://8edb264520569b2280c5e86b2dc734e120032903
 #EXTINF:-1 tvg-id="M.L. Campeones 720p" tvg-name="M.L. Campeones 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/hktwpa1654941198.png" tvg-type="Futbol", M.L. Campeones 720p 
 acestream://6b56c1de436327b49e429a702e81e9269630e37a
 #EXTINF:-1 tvg-id="M.L. Campeones 2 1080p" tvg-name="M.L. Campeones 2 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-type="Futbol", M.L. Campeones 2 1080p
 acestream://c070cdb701fc46bb79d17568d99fc64620443d63
 #EXTINF:-1 tvg-id="M.L. Campeones 2 720p" tvg-name="M.L. Campeones 2 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-type="Futbol", M.L. Campeones 2 720p
 acestream://abdf9058786a48623d0de51a3adb414ae10b6e72
-#EXTINF:-1 tvg-id="M.L. Campeones 2 SD" tvg-name="M.L. Campeones 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-type="Futbol", M.L. Campeones 2 SD
-acestream://da797a35dc1a4b7d4ac682b0f86dcdd0bb4e61dd
 #EXTINF:-1 tvg-id="M.L. Campeones 3 1080p" tvg-name="M.L. Campeones 3 1080p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-type="Futbol", M.L. Campeones 3 1080p
 acestream://3618edda333dad5374ac2c801f5f14483934b97d
 #EXTINF:-1 tvg-id="M.L. Campeones 3 720p" tvg-name="M.L. Campeones 3 720p" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-type="Futbol", M.L. Campeones 3 720p
@@ -65,3 +71,38 @@ acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 acestream://11744c25a594e17d587ed0871fe40ff21b4bd1e0
 #EXTINF:-1 tvg-id="M.L. Campeones 5 SD" tvg-name="M.L. Campeones 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" tvg-type="Futbol", M.L. Campeones 5 SD
 acestream://67786dae02c3d2022dc2f024fb06f1c98b1a55ba
+#EXTINF:-1 tvg-id="M.L. Campeones 6 SD" tvg-name="M.L. Campeones 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" tvg-type="Futbol", M.L. Campeones 6 SD
+acestream://dbc9e747a1ab4def940cb6c35b8a431e5667bc24
+#EXTINF:-1 tvg-id="M.L. Campeones 6 SD" tvg-name="M.L. Campeones 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" tvg-type="Futbol", M.L. Campeones 6 SD
+acestream://fdda1f0dd8c33fbdc5a66ab98e291f570cae67cd
+#EXTINF:-1 tvg-id="M.L. Campeones 7 SD" tvg-name="M.L. Campeones 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" tvg-type="Futbol", M.L. Campeones 7 SD
+acestream://963f03a79392753e747f975da4328a53d3bc1417
+#EXTINF:-1 tvg-id="M.L. Campeones 8 SD" tvg-name="M.L. Campeones 8 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" tvg-type="Futbol", M.L. Campeones 8 SD
+acestream://1838ac44a9a35253b4f48e129681c793bc781c25
+#EXTINF:-1 tvg-id="M.L. Campeones 9 SD" tvg-name="M.L. Campeones 9 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" tvg-type="Futbol", M.L. Campeones 9 SD
+acestream://2d7c4cfb3987b652a779afc894cca2fccbbacf21
+#EXTINF:-1 tvg-id="M.L. Campeones 10 SD" tvg-name="M.L. Campeones 10 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" tvg-type="Futbol", M.L. Campeones 10 SD
+acestream://c056f9e180cd7d40963129a17ff54f4ee8259353
+#EXTINF:-1 tvg-id="M.L. Campeones 11 SD" tvg-name="M.L. Campeones 11 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" tvg-type="Futbol", M.L. Campeones 11 SD
+acestream://a12a16f74cf12799d4475ae867dc61eb60e1ba2e
+#EXTINF:-1 tvg-id="M.L. Campeones 12 SD" tvg-name="M.L. Campeones 12 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" tvg-type="Futbol", M.L. Campeones 12 SD
+acestream://df7d145fcaf0566db4098d2f10236185d92bc9fd
+#EXTINF:-1 tvg-id="M.L. Campeones 13 SD" tvg-name="M.L. Campeones 13 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" tvg-type="Futbol", M.L. Campeones 13 SD
+acestream://bdfe9ebe62d690c1b13eef4346d72e618cfbe804
+#EXTINF:-1 tvg-id="DAZN 1 1080p" tvg-name="DAZN 1 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" tvg-type="Deportes", DAZN 1 1080p
+acestream://7cf0086fa7d478f51dbba952865c79e66cb9add5
+#EXTINF:-1 tvg-id="DAZN 1 720p" tvg-name="DAZN 1 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/f5vosd1657045413.png" tvg-type="Deportes", DAZN 1 720p
+acestream://35c7f0c966ecde3390f4510bb4caded40018c07a
+#EXTINF:-1 tvg-id="DAZN 2 1080p" tvg-name="DAZN 2 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" tvg-type="Deportes", DAZN 2 1080p
+acestream://ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
+#EXTINF:-1 tvg-id="DAZN 2 720p" tvg-name="DAZN 2 720p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/fsswed1657045424.png" tvg-type="Deportes", DAZN 2 720p
+acestream://a929eeec1268d69d1556a2e3ace793b2577d8810
+#EXTINF:-1 tvg-id="DAZN 3 1080p" tvg-name="DAZN 3 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" tvg-type="Deportes", DAZN 3 1080p
+acestream://19cd05c7ae26f22737ae5728b571ca36abd8a2e8
+#EXTINF:-1 tvg-id="DAZN 3 1080p" tvg-name="DAZN 3 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/0z5ub31657045435.png" tvg-type="Deportes", DAZN 3 1080p
+acestream://d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-id="DAZN 4 1080p" tvg-name="DAZN 4 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/8387zr1617352854.png" tvg-type="Deportes", DAZN 4 1080p
+acestream://4e83f23945ab3e43982045f88ec31daaa4683102
+#EXTINF:-1 tvg-id="DAZN 4 1080p" tvg-name="DAZN 4 1080p" tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/8387zr1617352854.png" tvg-type="Deportes", DAZN 4 1080p
+acestream://7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+
