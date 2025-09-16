@@ -114,9 +114,9 @@ acestream://ca4860d9998d63029dcf08c6f5dfc2102c01be4e
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES A
-acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+acestream://0f7842f8b6c26571e5a974407b61623e56e6a052
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES B
-acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
+acestream://afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES C
 acestream://9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES D
@@ -128,33 +128,51 @@ acestream://05057e832dd1530c7d5e8b0857fee6826243a243
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M+ LIGA DE CAMPEONES G
 acestream://ba87f528de030aad56576f7cbb9d8bbd7efd62b9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 A
-acestream://74ab4e4ec7e2da001f473ca40893b7307b8029c5
+acestream://c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 B
-acestream://38f7b2044e549df2039ff26cefa6f9a60c854d5e
+acestream://4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 C
-acestream://0adc3b525508b4a74ce65685870894a77401afb7
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M+ LIGA DE CAMPEONES 2 D
-acestream://f7fa79fdad436e969a82389a062a74564e91b10e
+acestream://e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", M+ LIGA DE CAMPEONES 3 A
-acestream://4416843c96b7f7a1bc55c476091a60fff0922bc7
+acestream://17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", M+ LIGA DE CAMPEONES 3 B
-acestream://cfc371890bfb502737a26de5215e50929c52d0f9
+acestream://1dece791d28be6a5af78537ac4864ec01fa0a6d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", M+ LIGA DE CAMPEONES 3 C
-acestream://509e91774b5b2d0af80883c8d4217c3b53235231
+acestream://2b5129adc57d43790634d796fe3468b9fd061259
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M+ LIGA DE CAMPEONES 4 A
-acestream://5a8323792bb3d48f71d1f690d3f5ec4ad5b48301
+acestream://77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M+ LIGA DE CAMPEONES 4 B
-acestream://7a5512d101742eb418dd0e3ffbd2bf6c43c73452
+acestream://53cd86466d1faed03a607be92af601f7e8da128f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", M+ LIGA DE CAMPEONES 5 A
-acestream://47ab133c0bd7c9e6eb6f11661d33101a9d3bfce3
+acestream://cb6410a6355a645cfc6f6f5a7c7d71298fcbc2c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", M+ LIGA DE CAMPEONES 5 B
 acestream://7c3791bfaf9b4b215cc63fa2d61902f9bf3da7ff
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 6", M+ LIGA DE CAMPEONES 6 A
-acestream://c1de133576bc8b82db0891d850f5e2d448dac9d6
+acestream://976983697790ab8a07b764b08843529d38bc6444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 7", M+ LIGA DE CAMPEONES 7 A
-acestream://67492877ee4314e8e88c49eaedc82c556750ae9f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 8", M+ LIGA DE CAMPEONES 8A 
-acestream://7dd235ecd152c3d303f29aeaa0728d5c8b588f7c
+acestream://83c02982581a536d1321e38a77dc0c520b1cb842
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 8", M+ LIGA DE CAMPEONES 8 A 
+acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 8", M+ LIGA DE CAMPEONES 9 A 
+acestream://80abcb38122c25fefb4dffeb57086998447ff49b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 8", M+ LIGA DE CAMPEONES 10 A 
+acestream://0103373118989085dd0d02667c629ee36d462cb1
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones SD" tvg-id="M+ Liga de Campeones SD", M+ LIGA DE CAMPEONES SD
+acestream://fc70279ac5615d38b310cef5cd6858405d5baef8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones SD" tvg-id="M+ Liga de Campeones 2 SD", M+ LIGA DE CAMPEONES 2 SD
+acestream://e3dfa055b771e5ea4654e5aa0fbfb9586e4f771b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones SD" tvg-id="M+ Liga de Campeones 3 SD", M+ LIGA DE CAMPEONES 3 SD
+acestream://1c32dfc718ebdfafab2cd580d1338e3f1f98fdf9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones SD" tvg-id="M+ Liga de Campeones 4 SD", M+ LIGA DE CAMPEONES 4 SD
+acestream://2698fced89f080ce87c1bfe988874bef7eb67cdb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones SD" tvg-id="M+ Liga de Campeones 5 SD", M+ LIGA DE CAMPEONES 5 SD
+acestream://dd2fbd4aa4279ce24c7379439a55a278a03f26c6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="M Campeones SD" tvg-id="M+ Liga de Campeones 6 SD", M+ LIGA DE CAMPEONES 6 SD
+acestream://7bca03524f83de91508ae698c6d7adc858460d34
+
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="Dazn" tvg-id="DAZN 1 HD", DAZN 1 A
