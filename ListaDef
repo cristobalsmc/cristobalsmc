@@ -51,13 +51,17 @@ acestream://778d2f60bb7207addedcca0b9aed98f41529724e
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ DEPORTES A
-acestream://ebca4a63ce3bfda7b272964a1acc5227218184a4
+acestream://ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ DEPORTES B
-acestream://2f3cfd199a49819cbd129689a840dc3d23ab93aa
+acestream://f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ DEPORTES C
-acestream://751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
+acestream://3692ea4cdda97eb0062ed5d656ebd61f149ebd0b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ DEPORTES D
+acestream://5d3f582738467aaf213e408601aca5cc13fa9359
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="Deportes" tvg-id="M+ Deportes HD", M+ DEPORTES E
+acestream://651d6be899d1fafa107a265a9dc00ff914c1b548
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 A
-acestream://f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+acestream://73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 B
 acestream://bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 C
@@ -65,9 +69,9 @@ acestream://edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="Deportes" tvg-id="M+ Deportes 2 HD", M+ DEPORTES 2 D
 acestream://438991226c3bc6a06e7bfda9bea9f769957dc366
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="Deportes" tvg-id="M+ Deportes 3", M+ DEPORTES 3 A
-acestream://799c6b5ee1cf41af077d14e3f9c45a32697eb903
+acestream://753d4b1f7c4ef43238b5cf23b05572b550a44eee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="Deportes" tvg-id="M+ Deportes 3", M+ DEPORTES 3 B
-acestream://2fd410c5d89e7a627cd3785685b7915b8e4bd534
+acestream://29d786d72d4b53dbc333af3a50f8fb021aa0296f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="Deportes" tvg-id="M+ Deportes 4", M+ DEPORTES 4 A
 acestream://b40e1de2dcbd7c665f54877b14c830ed67b32a96
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="Deportes" tvg-id="M+ Deportes 5", M+ DEPORTES 5 B
